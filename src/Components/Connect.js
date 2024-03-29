@@ -27,18 +27,18 @@ function Connect() {
   </div>
 
 
-  <div className='connect-message'>
+  <form className='connect-message'>
     <div className='message-box'>
       <label className='contact-icon'><i  class="fa-regular fa-user"></i>&nbsp; Name</label>
-      <input className='name' placeholder='Name'/>
+      <input className='name' placeholder='Name' required/>
 
       <label className='contact-icon'><i  class="fa-regular fa-envelope"></i>  &nbsp;Email</label>
-      <input className='email' placeholder='Email'/>
+      <input className='email' placeholder='Email' required/>
 
-      <textarea className='message' placeholder='Message :)' />
+      <textarea className='message' placeholder='Message :)'  required/>
       <button className='msg-send' type='submit'>Send&nbsp;<i class="fa-regular fa-paper-plane"></i></button>
     </div>
-  </div>
+  </form>
 </div>
 
 </div>
