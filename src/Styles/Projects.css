@@ -4,6 +4,7 @@
   height: auto;
   display: flex;
   flex-direction: column;
+  padding: 50px;
   
 }
 .projectpage-tittle {

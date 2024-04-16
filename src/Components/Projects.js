@@ -61,15 +61,17 @@ function Projects() {
     <div className='portfolio-box'>
         <img src={image3} alt=''/>
         <div className='portfolio-layer'>
-          <div className='project-name'>Quiz App</div>          
+          <div className='project-name'>Pizza WebApp</div>          
           <div className='project-list'>
-          <div>HTML</div>
-          <div>CSS</div>
-          <div>Javascript</div>
+          <div>React</div>
+          <div>Node</div>
+          <div>Express</div>
+          <div>Mongo</div>
           </div>
           <div className='demo-button'>
-          <a className='source-button' href='https://github.com/gokulvasanthJ/Quiz-Application-with-Timer-main' target='-blank'><i class="fa-brands fa-github"></i></a>
-          <a className='live-button' href='https://quize-app-tool.netlify.app/'  target='-blank'><i class="fa-solid fa-arrow-up-right-from-square" style={{color:' #f5f9ff'}}></i></a>
+          <a className='source-button' href='https://github.com/gokulvasanthJ/pizza-app-frontend_' target='-blank'><i class="fa-brands fa-github"></i></a>
+          <a className='source-button' href='https://github.com/gokulvasanthJ/pizza-app-backend_' target='-blank'><i class="fa-brands fa-github"></i></a>
+          <a className='live-button' href='https://fresh-pizza-website.netlify.app/'  target='-blank'><i class="fa-solid fa-arrow-up-right-from-square" style={{color:' #f5f9ff'}}></i></a>
           </div>
           
           
@@ -81,13 +83,14 @@ function Projects() {
         <div className='portfolio-layer'>
           <div className='project-name'>Blog App</div>          
           <div className='project-list'>
-          <div>HTML</div>
-          <div>CSS</div>
-          <div>Javascript</div>
           <div>React</div>
+          <div>Node</div>
+          <div>Express</div>
+          <div>Mongo</div>
           </div>
           <div className='demo-button'>
           <a className='source-button' href='https://github.com/gokulvasanthJ/blogingapp' target='-blank'><i class="fa-brands fa-github"></i></a>
+          <a className='source-button' href='https://github.com/gokulvasanthJ/blogapp-backend' target='-blank'><i class="fa-brands fa-github"></i></a>
           <a className='live-button' href='https://bloging-web-app.netlify.app/'  target='-blank'><i class="fa-solid fa-arrow-up-right-from-square" style={{color:' #f5f9ff'}}></i></a>
           </div>
           
