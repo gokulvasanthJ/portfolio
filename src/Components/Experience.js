@@ -8,7 +8,7 @@ function Experience() {
     <div id="experience" className='experience-section'>
       
       
-      <div className='experience-cards'>
+      {/* <div className='experience-cards'>
         <div className='companies'>
           <div className='company-name'>GUVI Geek Networks, IITM Research Park</div>
           <div className='position'>MERN Full-Stack Web <br></br>Developer</div>
@@ -30,7 +30,7 @@ function Experience() {
             </ul>
           </div>
         </div>
-      </div>
+      </div> */}
       {/* /// */}
       <div className='experience-cards'>
         <div className='companies'>
@@ -61,7 +61,7 @@ function Experience() {
 
       <div className='experience-cards'>
         <div className='companies'>
-          <div className='company-name'>Guvi</div>
+          <div className='company-name'>Techno Hacks</div>
           <div className='position'>Junior Web Developer<br></br></div>
         </div>
         <hr></hr>
