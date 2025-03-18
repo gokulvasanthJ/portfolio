@@ -1,7 +1,6 @@
 import React from 'react'
-import '../Styles/About.css'
-import image from './mypic.jpg'
-import "../Styles/splash.jpg"
+import '../aboutComponent/About.css'
+import image from '../aboutComponent/mypic.png'
 
 
 function About() {
@@ -18,7 +17,7 @@ I focus on building <span  style={{color:' rgb(16, 118, 91) ',fontSize:'19px',fo
 Dedicated to creating engaging in Back-end development.
   </div>
   <div className='about-button'>
-    <a className='resume-button' href='https://drive.google.com/file/d/10qRycoGfjDHbYaP57LtOY4o8Bp0rnN06/view?usp=drivesdk' target='-blankdi'>Resume&nbsp;&nbsp;<i class="fa-solid fa-download" style={{"color": "#ffffff"}} ></i></a>
+    <a className='resume-button' href='https://drive.google.com/file/d/1vDm6a7Y2-QbyRRbow1L09tROB48L-1w8/view?usp=sharing' target='-blankdi'>Resume&nbsp;&nbsp;<i class="fa-solid fa-download" style={{"color": "#ffffff"}} ></i></a>
     <a className='uncover-button' href='#skills'>Uncover</a>
   </div>
 </div>

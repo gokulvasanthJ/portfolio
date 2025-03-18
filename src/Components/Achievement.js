@@ -4,7 +4,7 @@ import image from'./achievementimages.jpg'
 import image1 from '../Components/certificates/Guvi.png'
 import image2 from '../Components/certificates/tnhack.jpeg'
 import image3 from '../Components/certificates/computra.jpeg'
-import image4 from '../Components/certificates/scolar.jpeg'
+import image4 from '../Components/certificates/scolar.pdf'
 
 function Achievement() {
   return <>
@@ -15,7 +15,9 @@ function Achievement() {
 <div className='achievement-img-box' >
 <img className='achievement-img' src={image} alt=''/>
 </div>
+
 <div className='achievement-contents'>
+  
 
 <div className='content-box12'>
 {/* box-1 */}
@@ -32,6 +34,7 @@ function Achievement() {
 
     
   </div>
+  
 
   {/* box-2 */}
 <div className='content-box'>
@@ -50,6 +53,7 @@ function Achievement() {
   </div>
 
   {/* //// */}
+  
   <div className='content-box34'>
   {/* box-3 */}
 <div className='content-box'>
@@ -69,9 +73,9 @@ function Achievement() {
 <div className='content-box'>
     
 <div className='certifications'>
-      <div className='content-heading'>The ScholarHat</div>
+      <div className='content-heading'>KarmaDev.in</div>
       <hr></hr>
-      <div className='describe'>Front-End Workshop<br></br>
+      <div className='describe'>Full-Stack Developer<br></br>
       Certification</div>
       <hr></hr>
       <a download='ScholarHat' href={image4}>Visit</a>

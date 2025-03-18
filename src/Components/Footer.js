@@ -13,7 +13,7 @@ function Footer() {
 <div className='navigation'>
 <a href="#about">ABOUT</a>
 <a href="#skills">SKILLS</a>
-<a href="https://drive.google.com/file/d/1a3VbFlj7UBQddrvD9AwAUCzdt90pwvZA/view?usp=drivesdk" target='-blank'>RESUME</a>
+<a href="https://drive.google.com/file/d/1vDm6a7Y2-QbyRRbow1L09tROB48L-1w8/view?usp=sharing" target='-blank'>RESUME</a>
 </div>
 <div className='contact-info'>
   <ul>

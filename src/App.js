@@ -1,5 +1,4 @@
 import React from 'react'
-import About from './Components/About'
 import Skills from './Components/Skills'
 import Projects from './Components/Projects'
 import Experience from './Components/Experience'
@@ -7,6 +6,7 @@ import Connect from './Components/Connect'
 import Navbar from './Components/Navbar'
 import Achievement from './Components/Achievement'
 import Footer from './Components/Footer'
+import About from './Components/aboutComponent/About'
 
 function App() {
   return <> 
