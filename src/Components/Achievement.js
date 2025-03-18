@@ -4,7 +4,7 @@ import image from'./achievementimages.jpg'
 import image1 from '../Components/certificates/Guvi.png'
 import image2 from '../Components/certificates/tnhack.jpeg'
 import image3 from '../Components/certificates/computra.jpeg'
-import image4 from '../Components/certificates/scolar.pdf'
+import image4 from '../Components/certificates/Karmadev.jpg'
 
 function Achievement() {
   return <>
@@ -78,7 +78,7 @@ function Achievement() {
       <div className='describe'>Full-Stack Developer<br></br>
       Certification</div>
       <hr></hr>
-      <a download='ScholarHat' href={image4}>Visit</a>
+      <a download='Karmadev' href={image4}>Visit</a>
     </div>
 
     
